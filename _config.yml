@@ -1,4 +1,4 @@
-# Dependencies
+ Dependencies
 markdown:         redcarpet
 highlighter:      pygments
 
@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Aditya Gupta
-tagline:          'Computer Science Engineering Student'
-description:      'Computer Science Engineering Student trying to become a software engineer.'
-url:              www.adityagupta961.github.io
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Aditya Gupta'
-  url:            https://linkedin.com
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/AdityaGupta961
+  repo:           https://github.com/poole/hyde
