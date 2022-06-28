@@ -9,13 +9,13 @@ permalink:        pretty
 # Setup
 title:            Aditya Gupta
 tagline:          'CSE Student'
-description:      'ML enthusiast - specifically the bridge between practical applications and theoretical possibilities. I work on interesting projects and research'
+description:      'ML enthusiast - specifically the bridge between practical applications and theoretical possibilities. I work on interesting projects and research.'
 url:              http:adityagupta961.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Aditya Gupta'
+  url:            https://linkedin.com
 
 paginate:         5
 
