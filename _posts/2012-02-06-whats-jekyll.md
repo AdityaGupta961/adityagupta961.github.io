@@ -1,12 +1,14 @@
 ---
 layout: post
-title: What's Jekyll?
+title: Bio
 ---
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+  > Impossible is temporary.
 
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+I am a 3rd year Btech CSE Student at Gitam University. I am fortunate enough to be advised by prof Shanti Chilukuri in the field of Computer networks. Specifically using <strong>Deep Reinforcement Learning</strong> on the field of Computer networks from the lens of improving delay and robustness.
 
-It's an immensely useful tool and one we encourage you to use here with Hyde.
+I love working on difficult problems, and challenging myself constantly to push beyond my limits.
 
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+Checkout some of my projects by [visiting my GitHub profile](https://github.com/adityagupta961).
+
+Do you have an idea? [Contact me](https://www.linkedin.com/in/adityagupta961) and let's see what we can do.
